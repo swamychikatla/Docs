@@ -13,6 +13,7 @@ Process Management
 Device Drivers
 Resource Allocation (How much RAM will allocate)
 Job Scheduling (For example one file is copying, After this one file need to copy)
+
 You have written one program and that program needs to compile, that compile is also one program. that program is called GNU.
 
 In Google search for Virtualbox, there is a Oracle Virtual box. Click on at and go to download. Select the package, which needs. Most are the Windows, then select Windows hosts and it wll download.
@@ -21,7 +22,7 @@ In Google search for Ubuntu Download. Click on Download.
 
 First needs to install Virtualbox.
 
-image
+
 
 Click on New and choose our name and click on Next and it asks for RAM. Provide RAM and click on Next. Select Create a Virtual hard disk now and click on Next. Select Hard disk file type as VDI and click on Next. Select Storage on physical hard disk , select Dynamically allocated and click on Next and Select the File location and size. Provide disk size and click on Create.
 
